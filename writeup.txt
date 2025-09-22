@@ -1,1 +1,5 @@
+A text file containing:
+    A list of libraries (modules) used
+    Division of labor
+
 
