@@ -1,5 +1,7 @@
 A list of libraries (modules) used
   - matplotlib, mysql-connector
+
+
 Division of labor
   - Task 1: Rayaan Afzal, Anthony Rahner, Varun Kundarapu
   - Task 2: Varun Kundarapu
